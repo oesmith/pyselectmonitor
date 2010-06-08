@@ -1,0 +1,4 @@
+A really simple set of scripts to read data from my car's ECU via a hacked
+select monitor cable.
+
+* my car is a 1997 Subaru Legacy GT-B, ECU ID A20113
